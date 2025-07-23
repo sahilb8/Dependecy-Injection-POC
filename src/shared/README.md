@@ -1,0 +1,1 @@
+This contains code that is reused across multiple modules but isn't core to the application's infrastructure. Common examples include authentication middleware, helper functions, or global type definitions.
